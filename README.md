@@ -58,6 +58,6 @@ npm run start
 yarn start
 ```
 
-Make sure you have started the API server. If not, check [here](#mock-api)
+Make sure you have started the API server. If not, check [here](#mockapi)
 <br/>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
