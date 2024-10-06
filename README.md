@@ -5,16 +5,13 @@ This is my application test for the ReactJs position at Hachium.
 - [Introduction](#introduction)
 - [Installation](#installation)
   - [MockAPI](#mock-api)
-  - [Frontend](#fe)
-- [Run project](#run-project)
-- [Kết Nối với json-server](#kết-nối-với-json-server)
-- [Thank you](#thank-you)
+  - [Frontend](#front-end)
 
 ## Introduction
 This test is based on [Requirement](https://docs.google.com/document/d/1CWuf0ns1v8BawstjuqH5NfT6Jahy8wmxOBXIDTPqMBM/edit) 
 to create a simple to-do list application using ReactJs and MockAPI. In this test, i am using json-server as a API server
 
-## Installtion
+## Installation
 ### Requirements
 - Node.js (20.17.0)
 - npm (10.8.3) or yarn
