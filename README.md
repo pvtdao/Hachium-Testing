@@ -4,8 +4,8 @@ This is my application test for the ReactJs position at Hachium.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-  - [MockAPI](#mock-api)
-  - [Frontend](#front-end)
+  - [MockAPI](#mockapi)
+  - [Frontend](#frontend)
 
 ## Introduction
 This test is based on [Requirement](https://docs.google.com/document/d/1CWuf0ns1v8BawstjuqH5NfT6Jahy8wmxOBXIDTPqMBM/edit) 
@@ -38,7 +38,7 @@ yarn start
 
 Open [http://localhost:5000/tasks](http://localhost:5000/tasks) with your browser to see the data 
 
-#### FE source
+#### Frontend
 First, navigate to the FE directory
 `
 cd fe
